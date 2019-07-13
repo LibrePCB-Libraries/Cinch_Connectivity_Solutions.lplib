@@ -1,0 +1,11 @@
+(librepcb_library 4dd36583-a55f-456d-9c7a-da85b1cb95b8
+ (name "Cinch Connectivity Solutions")
+ (description "Connectors and cable assemblies")
+ (keywords "bel,cinch,connectors,cable assemblies")
+ (author "LibrePCB")
+ (version "0.1")
+ (created 2019-07-13T21:17:27Z)
+ (deprecated false)
+ (url "https://github.com/LibrePCB-Libraries/Cinch_Connectivity_Solutions.lplib/")
+ (dependency a9ddf0c6-9b1c-4730-b300-01b4f192ad40)
+)

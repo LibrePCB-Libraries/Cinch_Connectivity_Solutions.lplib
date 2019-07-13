@@ -1,6 +1,6 @@
 # Cinch Connectivity Solutions
 
-Connectors and cable assemblies.
+Connectors and cable assemblies (unofficial).
 
 ## License
 

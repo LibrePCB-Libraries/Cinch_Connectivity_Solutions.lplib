@@ -1,6 +1,6 @@
 (librepcb_library 4dd36583-a55f-456d-9c7a-da85b1cb95b8
  (name "Cinch Connectivity Solutions")
- (description "Connectors and cable assemblies")
+ (description "Connectors and cable assemblies (unofficial).")
  (keywords "bel,cinch,connectors,cable assemblies")
  (author "LibrePCB")
  (version "0.1")

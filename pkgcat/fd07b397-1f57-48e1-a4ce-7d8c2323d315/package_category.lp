@@ -1,0 +1,10 @@
+(librepcb_package_category fd07b397-1f57-48e1-a4ce-7d8c2323d315
+ (name "Cinch Connectivity Solutions")
+ (description "")
+ (keywords "cinch,bel")
+ (author "Danilo Bargen")
+ (version "0.1")
+ (created 2019-07-13T21:23:18Z)
+ (deprecated false)
+ (parent 194951ec-03dd-412a-9828-70c40bbdd22d)
+)

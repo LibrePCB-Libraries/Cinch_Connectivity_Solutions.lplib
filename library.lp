@@ -3,7 +3,7 @@
  (description "Connectors and cable assemblies (unofficial).")
  (keywords "bel,cinch,connectors,cable assemblies")
  (author "LibrePCB")
- (version "0.1")
+ (version "0.1.1")
  (created 2019-07-13T21:17:27Z)
  (deprecated false)
  (url "https://github.com/LibrePCB-Libraries/Cinch_Connectivity_Solutions.lplib/")

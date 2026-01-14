@@ -3,7 +3,7 @@
  (description "SMA 50 Ω end launch connector")
  (keywords "sma,connector,edge mount,142-0701-801,142-0701-806")
  (author "Danilo Bargen")
- (version "0.2")
+ (version "0.2.1")
  (created 2019-07-13T21:27:54Z)
  (deprecated false)
  (generated_by "")
@@ -198,5 +198,6 @@
  (approved missing_footprint_3d_model
   (footprint 5e53b0c9-ab36-4a5e-a543-49c6086f1e34)
  )
+ (approved origin_not_in_center)
  (approved suspicious_assembly_type)
 )
